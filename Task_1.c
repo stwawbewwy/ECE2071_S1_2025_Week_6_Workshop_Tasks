@@ -20,8 +20,6 @@ argument, only the filtered string must be printed onto the terminal.
 *******************************************************************************************************
 */
 
-// BALLS
-
 #include <stdlib.h>
 #include <stdio.h>
 #include <string.h>
